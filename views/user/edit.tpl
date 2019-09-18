@@ -1,0 +1,1 @@
+D:\Go\gowork\src\myproject/views/user/edit.tpl
